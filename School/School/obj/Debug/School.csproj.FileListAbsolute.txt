@@ -1,0 +1,6 @@
+D:\пм2022\david\School\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\пм2022\david\School\School\bin\Debug\School.exe.config
+D:\пм2022\david\School\School\bin\Debug\School.exe
+D:\пм2022\david\School\School\bin\Debug\School.pdb
+D:\пм2022\david\School\School\obj\Debug\School.exe
+D:\пм2022\david\School\School\obj\Debug\School.pdb
