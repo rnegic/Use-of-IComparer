@@ -28,7 +28,7 @@ namespace School
             Console.WriteLine("Исходная школа!");
             Console.WriteLine(school);
 
-            Console.WriteLine("отсортировали по баллу");
+            Console.WriteLine("отсортировали по уровню обр");
             school.Sort(new StageComparer());
             Console.WriteLine(school);
 
