@@ -1,0 +1,14 @@
+D:\пм2022\david\School\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\пм2022\david\School\School\bin\Debug\School.exe.config
+D:\пм2022\david\School\School\bin\Debug\School.exe
+D:\пм2022\david\School\School\bin\Debug\School.pdb
+D:\пм2022\david\School\School\obj\Debug\School.exe
+D:\пм2022\david\School\School\obj\Debug\School.pdb
+C:\Users\arneg\Desktop\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+C:\Users\arneg\Desktop\School\School\obj\Debug\School.csproj.SuggestedBindingRedirects.cache
+C:\Users\arneg\Desktop\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\arneg\Desktop\School\School\obj\Debug\School.exe
+C:\Users\arneg\Desktop\School\School\obj\Debug\School.pdb
+C:\Users\arneg\Desktop\School\School\bin\Debug\School.exe.config
+C:\Users\arneg\Desktop\School\School\bin\Debug\School.exe
+C:\Users\arneg\Desktop\School\School\bin\Debug\School.pdb
